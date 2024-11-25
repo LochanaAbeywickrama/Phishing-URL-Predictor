@@ -4,7 +4,6 @@ import pandas as pd
 import pickle
 from urllib.parse import urlparse
 import re
-import tldextract
 import requests
 from bs4 import BeautifulSoup
 from sklearn.metrics import accuracy_score
